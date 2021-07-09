@@ -8,4 +8,3 @@
 * [https://kevin-emo.github.io/](https://kevin-emo.github.io/)
 * [https://www.linkedin.com/in/kevinemo](https://www.linkedin.com/in/kevinemo)
 * [https://twitter.com/kevin_emo_dev](https://twitter.com/kevin_emo_dev)
-* [https://foreachcode.com/](https://foreachcode.com/)
